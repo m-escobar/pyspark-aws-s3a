@@ -4,9 +4,13 @@
 The original branch for docker Spark and all info about the docker used in this demo, updated versions, etc, can be found [here](https://github.com/gettyimages/docker-spark).
 
 
-If you don't know how to use docker check section [sample commands](sample-commands), you will find a basic resume about docker commands.
+If you don't know how to use docker check section [sample commands](#sample-commands), you will find a basic resume about docker commands.
 
-    
+if you don't need to install docker and docker-compose, you can go to [PySpark script configuration](#pyspark-script-configuration).
+
+
+To install docker check [this](https://docs.docker.com/get-docker/)
+
 # PySpark script configuration
 
 ## Start your server and test it
@@ -33,7 +37,7 @@ If you don't know how to use docker check section [sample commands](sample-comma
 - submit your job, for script sample check file: pyspark_scripts/script-aws.py
 
 
-#Sample Commands
+# Sample Commands
 .
 
 #sample-commands
